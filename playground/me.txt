@@ -1,0 +1,3 @@
+Name: Hindol Roy Choudhury
+Skills: HTML, CSS, JS, EditorX, Python, Bootstrap
+Email: roychoudhuryhindol@gmail.com
